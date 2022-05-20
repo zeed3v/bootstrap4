@@ -53,16 +53,10 @@ body {
   bottom: 0px;
   z-index: 1; }
 
-.modal-header {
+modal-header {
   background-color: #512DA8;
-  color: floralwhite; }
+}
 
-.close {
-  color: floralwhite; }
-
-.modal-body {
-  background-color: #9575CD; }
-
-.carousel-caption {
-    height: 215px;
+modal-body {
+  background: #9575CD;
 }
